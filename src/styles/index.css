@@ -1,0 +1,23 @@
+html {
+    font-size: calc(100vw / 1440);
+}
+
+body {
+    font-family: var(--font-primary);
+    font-size: 16rem;
+    background-color: var(--color-bg);
+    color: var(--color-text);
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+
+    h2 {
+        font-size: 104rem;
+        letter-spacing: -0.02em;
+    }
+}
