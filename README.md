@@ -4,9 +4,9 @@ A structured scroll-driven image grid where movement unfolds progressively withi
 
 ![Final result](screenshot.jpg)
 
-[Article on Codrops](https://tympanus.net/codrops/)
+[Article on Codrops](https://tympanus.net/codrops/?p=106424)
 
-[Demo](https://tympanus.net/codrops/)
+[Demo](https://tympanus.net/Tutorials/StickyGridScroll)
 
 ## Requirements
 
